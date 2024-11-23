@@ -50,7 +50,7 @@ export default function Home() {
             maxWidth: "600px",
           }}
         >
-          This is your first step into the world of web development. Build, deploy, and
+          This is my first step into the world of web development. Build, deploy, and
           share your creations with the world using Next.js and modern tools.
         </p>
       </main>
